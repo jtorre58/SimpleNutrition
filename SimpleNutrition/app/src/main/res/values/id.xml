@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id"/>
+    <item name="age" type="id"/>
+    <item name="weight" type="id"/>
+    <item name="feet" type="id"/>
+    <item name="inches" type="id"/>
+    <item name="gender" type="id"/>
+
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Simple Nutrition</string>
+    <string name="label_name">Name</string>
+    <string name="label_age">Age</string>
+    <string name="label_feet">Feet</string>
+    <string name="label_inches">Inches</string>
+    <string name="label_weight">Weight</string>
+    <string name="label_gender">Gender</string>
+
+    <string name="def_name">DefaultName</string>
+    <string name="def_age">DefaultAge</string>
+    <string name="def_feet">DefaultFeet</string>
+    <string name="def_inches">DefaultInches</string>
+    <string name="def_weight">DefaultWeight</string>
+    <string name="def_gender">DefaultGender</string>
+
+    <string name="but_calc">Calculate BMI</string>
+</resources>
