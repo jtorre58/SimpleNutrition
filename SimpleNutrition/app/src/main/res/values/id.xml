@@ -7,4 +7,9 @@
     <item name="inches" type="id"/>
     <item name="gender" type="id"/>
 
+    <item name="UserLogin" type="id"/>
+    <item name="UserNameInput" type="id"/>
+    <item name="Password" type="id"/>
+
+
 </resources>

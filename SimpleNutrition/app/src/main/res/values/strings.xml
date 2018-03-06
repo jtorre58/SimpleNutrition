@@ -14,5 +14,11 @@
     <string name="def_weight">DefaultWeight</string>
     <string name="def_gender">DefaultGender</string>
 
+    <string name="UserLogin">Login</string>
+    <string name="UserName">Username</string>
+    <string name="Password">Password</string>
+
+
+
     <string name="but_calc">Calculate BMI</string>
 </resources>
