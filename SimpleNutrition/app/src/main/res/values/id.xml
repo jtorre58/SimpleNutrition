@@ -11,5 +11,8 @@
     <item name="UserNameInput" type="id"/>
     <item name="Password" type="id"/>
 
+    <item name="UserInfo" type="id"/>
+    <item name="Height" type="id"/>
+
 
 </resources>

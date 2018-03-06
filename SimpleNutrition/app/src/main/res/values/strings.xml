@@ -17,7 +17,7 @@
     <string name="UserLogin">Login</string>
     <string name="UserName">Username</string>
     <string name="Password">Password</string>
-
+    <string name="UserInfo">User Information</string>
 
 
     <string name="but_calc">Calculate BMI</string>
